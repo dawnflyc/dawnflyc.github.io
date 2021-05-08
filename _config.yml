@@ -8,7 +8,7 @@ subtitle: ''
 description: ''
 keywords: 博客
 author: dawnflyc
-language: zh-cn
+language: zh-Hans
 timezone: ''
 
 # URL
@@ -32,7 +32,7 @@ skip_render:
 
 # Writing
 new_post_name: :title.md # File name of new posts
-default_layout: page
+default_layout: post
 titlecase: false # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
