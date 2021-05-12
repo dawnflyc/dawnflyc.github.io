@@ -4,6 +4,7 @@ categories:
   - 技术
 tags:
   - git
+description: git命令笔记
 abbrlink: 5bd9b965
 date: '2021-05-10 10:36:01'
 ---
@@ -103,7 +104,7 @@ git push 别名 分支
 
 https://www.jianshu.com/p/93318220cdce
 
-https://www.runoob.com/git/git-push.html
+https://www.runoob.com/git/git-tutorial.html
 
 https://git-scm.com/book/zh/v2
 
