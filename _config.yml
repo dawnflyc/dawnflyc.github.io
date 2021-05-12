@@ -76,7 +76,10 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  技术: technology
 tag_map:
+  git: git
+  博客: blog
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
