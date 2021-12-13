@@ -61,6 +61,12 @@ git add 文件
 跟踪文件
 
 ```
+git add *
+```
+
+跟踪所有文件
+
+```
 git add --all 文件
 ```
 
@@ -79,7 +85,7 @@ git branch *
 ###### 提交
 
 ```
-commit -m ""
+git commit -m ""
 ```
 
 
@@ -121,16 +127,26 @@ echo "# ****" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git branch -M main
+git branch -M master
 git remote add origin https://github.com/dawnflyc/*.git
-git push -u origin main
+git push -u origin master
 ```
 
 推送现有:
 
 ```
 git remote add origin https://github.com/dawnflyc/*.git
-git branch -M main
-git push -u origin main
+git branch -M master
+git push -u origin master
 ```
 
+将现有文件推送上去：
+
+```
+git init
+git add *
+git commit -m "这里写提交说明"
+git branch -M master
+git remote add origin https://github.com/*/你的仓库.git
+git push -u origin master
+```

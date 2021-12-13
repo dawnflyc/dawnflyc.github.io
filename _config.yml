@@ -80,7 +80,6 @@ category_map:
 tag_map:
   git: git
   博客: blog
-  隐藏: hidden
 
 
 # Metadata elements
