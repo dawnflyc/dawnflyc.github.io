@@ -1,3 +1,16 @@
+---
+title: SpringAop笔记
+categories:
+  - 技术
+tags:
+  - spring
+keywords: 'spring,aop,spring boot'
+description: SpringAop笔记
+abbrlink: 78fa5d
+date: '2022-02-12 12:14:50'
+---
+
+
 ##### 切入点指示符：
 
 ​	execution ：匹配方法，常用
