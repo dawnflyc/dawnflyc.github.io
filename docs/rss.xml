@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>半夜散人的个人博客</title><link>https://dawnflyc.github.io</link><description>记录一些技术笔记，或者比较重要的东西吧。</description><copyright>半夜散人的个人博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://dawnflyc.github.io</link></image><lastBuildDate>Fri, 20 Jun 2025 07:29:18 +0000</lastBuildDate><managingEditor>半夜散人的个人博客</managingEditor><ttl>60</ttl><webMaster>半夜散人的个人博客</webMaster><item><title>记录一个代理覆写</title><link>https://dawnflyc.github.io/post/4.html</link><description>```
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>半夜散人的个人博客</title><link>https://dawnflyc.github.io</link><description>记录一些技术笔记，或者比较重要的东西吧。</description><copyright>半夜散人的个人博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://dawnflyc.github.io</link></image><lastBuildDate>Wed, 23 Jul 2025 14:58:45 +0000</lastBuildDate><managingEditor>半夜散人的个人博客</managingEditor><ttl>60</ttl><webMaster>半夜散人的个人博客</webMaster><item><title>宏碁暗影骑士擎2022版——重装系统折腾经历【启动报错:inaccessible boot device】</title><link>https://dawnflyc.github.io/post/5.html</link><description>### 起因
+
+系统卡顿的不行，准备重装个系统，
+
+### 重装经过
+
+2. 结果重装后，直接蓝屏报错，给我搞蒙了，难道是镜像损坏了？
+3. 然后我马上去官网重新下载，结果还是不行，是不是分区有问题，分了还是不行……
+4. 是不是镜像还原或者系统安装出问题了，于是又用另一个u盘安装了系统，然后备份，再还原到c盘，结果……不用问就知道，还是不行。</description><guid isPermaLink="true">https://dawnflyc.github.io/post/5.html</guid><pubDate>Wed, 23 Jul 2025 13:06:29 +0000</pubDate></item><item><title>记录一个代理覆写</title><link>https://dawnflyc.github.io/post/4.html</link><description>```
 proxy-groups:
   - name: 🚀 节点选择
     type: select
